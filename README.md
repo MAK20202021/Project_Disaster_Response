@@ -1,4 +1,4 @@
-# Disaster_Response
+# Project_Disaster_Response
 This project is the combination of the utilization of ETL pipeline, NLP pipeline and ML pipeline construction. Here, I had different type of messages coming from different people during the disaster period. The main task was to classify those messages into various categories to provide appropriate support to those people. At the end, a web app is developed to put any message from the dataset and identify the particular categories. Some Data visualization have been also done in the app to show the trend of data in different case studies. 
 
 ## Project Motivation
