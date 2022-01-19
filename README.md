@@ -10,7 +10,7 @@ This project is for Udacity Nanodegree Program (https://www.udacity.com/course/d
 This exercise needs Anaconda package(Anaconda3), Jupyter Notebook (6.1.4), Visual Studio Code.
 
 ## File Description
-The sequence of souce codes and Data files are as follows:
+The sequence of Data files and source codes are as follows:
 - Data/disaster_categories.csv
 - Data/disaster_messages.csv
 - Data/process_data.py
