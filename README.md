@@ -5,7 +5,7 @@ This project is the combination of the utilization of ETL pipeline, NLP pipeline
 Starting from the raw data, then cleaning and process and at last building a proper machine learning model to predict the possible outcome is a good learning practice. This project utilizes all the important libraries such as word_tokenize, Pipeline, GridSearchCV. Raw data have been tokenized, cleaned and is saved as a SQL database and a pickle file is produced after building a proper machine learning model by tuning Grid Search parameters. Developing an app is a good visulation of Data for the user to put the input and get the possible outcomes. This project is really a good exercise to utilize all these important libraries and methods.  
 
 ## Acknowledgement
-This project is for Udacity Nanodegree Program (https://www.udacity.com/course/data-scientist-nanodegree--nd025). Thanks to Figure Eight for providing data and thanks to Udacity for arranging this project to strengthen our knowledge. This project platform has been taken from Udacity.
+This project is for [Udacity Nanodegree Program](https://www.udacity.com/course/data-scientist-nanodegree--nd025). Thanks to Figure Eight for providing data and thanks to Udacity for arranging this project to strengthen our knowledge. This project platform has been taken from Udacity.
 ## Installation
 This exercise needs Anaconda package(Anaconda3), Jupyter Notebook (6.1.4), Visual Studio Code.
 
